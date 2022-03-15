@@ -1,0 +1,334 @@
+@media screen and (max-width: 1400px) {
+    .site-content .line8 {
+        padding: 150px 30px;
+    }
+    .site-content .line8 .imgl81 {
+        display: none;
+    }
+    .site-content .line8 .imgl82 {
+        display: none;
+    }
+    .site-content .line3 .click {}
+    .page-title .all-content .left {
+        width: 50%;
+    }
+    .site-content .line1 .right {
+        padding-left: 50px;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .site-content {
+        overflow: hidden;
+    }
+    .site-header .info {
+        display: none;
+    }
+    .line1 .logo-line1 {
+        flex-direction: column;
+    }
+    .site-content .line1 .girl .img-girl-1 {
+        right: -100px;
+        top: 0;
+    }
+    .site-content .line1 .girl .img-girl-3 {
+        right: -105px;
+    }
+    .site-content .line3 .click {
+        padding-left: 0px;
+        display: block;
+    }
+    .site-content .line8 .content {
+        padding: 20px;
+        object-fit: cover;
+    }
+    .page-title .slick-next::before {
+        display: none;
+    }
+    .page-title .slick-prev::before {
+        display: none;
+    }
+    .page-title .all-content .left {
+        padding: 30px;
+        width: 50%;
+    }
+    .site-content .line2 {
+        padding: 100px 20px;
+    }
+    .site-content .line2 .content-l2 {
+        padding: 10px;
+        margin: 15px;
+    }
+    .site-header .menu-right .search {
+        display: none;
+    }
+    .site-content .line1 .girl .girl-1 {
+        right: 0px;
+    }
+    .page-title .page-2 {
+        padding: 30px;
+    }
+    .page-title .page-2 h1 {
+        font-size: 50px;
+    }
+    .page-title .page-2 p {
+        margin: 0;
+    }
+    .site-content .line1 .right {
+        padding-left: 30px;
+    }
+    .site-content .line5 .right {
+        padding: 70px 30px;
+    }
+    .line7 .l7-right {
+        padding: 70px 20px;
+    }
+    .line7 .hang3 {
+        margin: 28px 0 15px;
+    }
+}
+
+@media screen and (max-width: 1040px) {
+    .line1 .site-header .menu-right button {
+        display: none;
+    }
+    .site-header .menu-center {}
+}
+
+@media screen and (max-width: 991px) {
+    .line1 .left .girl {
+        padding: 0 0 100px 0;
+    }
+    .line1 .left .girl .img-girl-2 {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        position: relative;
+    }
+    .line1 .left .girl .img-girl-1 {
+        left: 0;
+        top: 50%;
+        all: none;
+    }
+    .line1 .left .girl .img-girl-3 {
+        right: 0;
+        bottom: 9%;
+        all: none;
+    }
+    .site-content .line1 .logo-line1 {
+        flex-direction: row-reverse;
+        display: inline-flex;
+    }
+    .site-content .line1 .content .logo:last-child {
+        padding-left: 0;
+    }
+    .site-content .line1 .right {
+        padding-left: 40px;
+    }
+    .site-content .line1 .logo-line1 .logo-left {
+        padding-left: 30px;
+    }
+    .menu .menu-center {
+        display: none;
+    }
+    .menu-right .search form {
+        display: none;
+    }
+    .site-header .menu .menu-hide {
+        display: block;
+    }
+    .site-content .line3 .click {
+        display: contents;
+    }
+    .site-content .line3 .click .getQ {
+        margin-bottom: 15px;
+    }
+    .site-content .line8 .content {
+        padding: 20px;
+        display: block;
+    }
+    .page-title .all-content .left {
+        padding: 30px;
+        width: 55%;
+    }
+    .page-title .all-content .left h1 {
+        font-size: 60px;
+    }
+    .site-header .menu-right .search {
+        display: block;
+    }
+    .site-content .line6 {
+        padding: 70px 0;
+    }
+    .site-content .line9 .all,
+    .site-content .line6 .team {
+        display: block;
+    }
+    .site-content .line6 .team .right,
+    .site-content .line9 .all .view-more {
+        display: block;
+    }
+    .site-content .line9 h2 {
+        max-width: 100%;
+    }
+    .site-content .line1 .girl {
+        max-width: 500px;
+    }
+    .site-header .menu-right .menu-bars {
+        display: none;
+    }
+    .site-footer .row2,
+    .site-footer .row4 {
+        padding-left: 20px;
+    }
+    .site-footer .row4 .form {
+        max-width: 444px;
+    }
+    .site-content .line5 .thongke .content-down {
+        margin: 25px 0;
+    }
+    .site-content .line5 .thongke {
+        padding: 30px 0;
+        color: #ffffff;
+        top: 0;
+    }
+    .site-content .line1 {
+        padding: 70px 0 0;
+    }
+    .site-content .line2,
+    .site-content .line3,
+    .site-content .line8,
+    .site-content .line9,
+    .site-content .line10 {
+        padding: 70px 0;
+    }
+    .site-footer {
+        padding-top: 70px;
+        background-color: #2e279d;
+        color: #cbc9e6;
+    }
+    .site-footer .row4 form {
+        max-width: 320px;
+    }
+    .site-content .line1 .content {
+        padding-top: 30px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .site-content .line5 .thongke .content-down {
+        justify-content: flex-start;
+        padding-left: 30px;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .site-content .line3 .click a:first-child {
+        margin-bottom: 20px;
+    }
+    .page-title .all-content .left h1 {
+        font-size: 45px;
+    }
+    .page-title .all-content .left {
+        padding: 30px;
+        width: 65%;
+    }
+    .site-content .line1 .girl .girl-1 {
+        right: 0px;
+        max-width: 255px;
+    }
+    .site-content .line1 .girl .girl-2 {
+        position: absolute;
+        max-width: 255px;
+        bottom: 100px;
+        right: 0;
+    }
+    .site-content .line1 .girl {
+        max-width: 400px;
+    }
+    .site-content .line3 {
+        padding: 30px 20px;
+    }
+    .site-content .line5 .thongke {
+        padding: 39px 20px;
+    }
+    .site-content .line1 .content .logo:first-child {
+        padding: 0;
+    }
+}
+
+@media screen and (max-width: 540px) {
+    .line1 .logo-line1 {
+        flex-direction: column;
+    }
+    .site-content .line8 {
+        padding: 40px 0px;
+    }
+    .site-content .line5 .left {
+        height: 500px;
+    }
+    .line7 .l7-right {
+        padding: 100px 20px;
+    }
+    .page-title .all-content .left {
+        padding: 30px;
+        width: 100%;
+    }
+    .site-header #search {
+        display: none;
+    }
+    .site-content .line1 .girl img:first-child {
+        max-width: 185px;
+    }
+    .site-content .line1 .content .logo:last-child {
+        padding-left: 0px;
+    }
+    .site-content .line1 .right {
+        padding-left: 19px;
+    }
+    .site-content .line1 .content h2,
+    .site-content .line2 h2,
+    .site-content .line3 .content h3,
+    .site-content .line6 .team h3,
+    .site-content .line4 h2,
+    .line7 h1,
+    .site-content .line8 h2 {
+        font-size: 30px;
+    }
+    .site-content .line9 h2 {
+        font-size: 29px;
+    }
+    .site-content .line5 .right h1 {
+        font-size: 35px;
+    }
+    .line10 h1 {
+        font-size: 33px;
+    }
+    .site-content .line8 .content P {
+        font-size: 18px;
+        font-style: italic;
+        font-family: 'Lora', sans-serif;
+    }
+    .site-content .line5 .thongke .content-down i {
+        margin: 0;
+    }
+    .site-content .line5 .thongke .content-down {
+        margin: 10px 0;
+    }
+    .site-content .line6 .content .inner--item .inner--info {
+        padding: 0 0;
+    }
+    .site-content .line8 .content .info div h5 {
+        font-size: 18px;
+    }
+    .line4 .slick-list {
+        padding: 0;
+    }
+    .site-content .line1 .logo-line1 {
+        flex-direction: column;
+        display: inline-flex;
+    }
+    .site-content .line5 .thongke .content-down {
+        padding-left: 0px;
+    }
+}
